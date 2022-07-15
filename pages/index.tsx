@@ -5,6 +5,7 @@ import VideoCard from '../components/VideoCard';
 import { Video } from '../types'
 import 'tailwindcss/tailwind.css';
 
+
 import { BASE_URL } from '../utils'
 interface IProps { 
   videos: Video[]
